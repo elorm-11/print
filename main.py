@@ -1,0 +1,5 @@
+print("there are six numbers")
+print(1,2,3,4,5,6)
+print("six paths of pain",1*6 )
+print(" there are sseven animes i like",6)
+print("\n i use mtn \n")
